@@ -159,7 +159,7 @@ Observe the DHCP traffic appearing in WireShark:
 <br />
 <br />
 <h3 align="center">
-  And finally, we will observe RDP traffic to finish up this tutorial
+  And finally, we will observe RDP traffic to finish up this project
 </h3>
 <br />
 <p>
@@ -183,5 +183,5 @@ Observe the DHCP traffic appearing in WireShark:
   And now that we're done, DON'T FORGET TO CLEAN UP YOUR AZURE ENVIRONMENT so that you don't incur unnecessary charges.
 </p>
 <p>
-  Close your Remote Desktop connection, delete the Resource Group(s) created at the beginning of this tutorial, and verify Resource Group deletion.
+  Close your Remote Desktop connection, delete the Resource Group(s) created at the beginning of this project, and verify Resource Group deletion.
 </p>
